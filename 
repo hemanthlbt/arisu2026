@@ -4,7 +4,7 @@
 int main() {
 
 
-printf("This is how you print in c programming\n");
+printf("This is how you print in c programming");
 
 
 
