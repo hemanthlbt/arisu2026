@@ -1,1 +1,6 @@
-"this is a commit message for the new test and I am In for it"
+"I really want to know how a commit message looks like, that would be really helpful and gives me a lot 
+
+og insight!!!!
+
+
+"
